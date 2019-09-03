@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Client
+namespace Views
 {
-    public partial class ViewMainForm : Form
+    public partial class Form1 : Form
     {
-        public ViewMainForm()
+        public Form1()
         {
             InitializeComponent();
         }

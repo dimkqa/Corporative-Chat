@@ -1,6 +1,6 @@
-﻿namespace Client
+﻿namespace Views
 {
-    partial class ViewMainForm
+    partial class Form1
     {
         /// <summary>
         /// Обязательная переменная конструктора.

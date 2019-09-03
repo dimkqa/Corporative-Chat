@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Client.Presenters
+namespace Presenters
 {
-    class MainFormPresenter
+    public class Class1
     {
     }
 }

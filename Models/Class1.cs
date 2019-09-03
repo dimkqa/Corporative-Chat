@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Client.Models
+namespace Models
 {
-    class MainFormModel
+    public class Class1
     {
     }
 }
